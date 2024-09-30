@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "558570768449",
+    "project_id": "breeze-deal-matrix",
+    "storage_bucket": "breeze-deal-matrix.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558570768449:android:1e7430cdde2844a3031ec0",
+        "android_client_info": {
+          "package_name": "com.breezedealmatrix"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClQGmVeah5GRdu1yVYPy7jto7nbIx2KOE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
